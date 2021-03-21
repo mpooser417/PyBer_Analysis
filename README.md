@@ -21,4 +21,8 @@ The summary of city types table can be found in the 62 output in the following f
 The Total Weekly Fares graph shown below shows the total weekly fares for January through April Other than one week in February, changes in the total weekly fares don't seem to be correlated between city type.
 ![Total Weekly Fares](Analysis/PyBer_fare_summary.png)
 
- 
+ ## Summary
+ Based on the analysis, the following recommendations can be made 
+ - More drivers in rural areas could be beneficial. More drivers could lead to more rides in rural areas which would increase total fares weekly and thus throughout the year. As we can see with the urban areas which have the most drivers, they also have the most total fares and ridesas well.
+ - A look at the how ride fares are determined in suburban and rural areas could be helpful. Despite having the two having significantly less rides than urban cities, rural and suburban cities average fares per ride were $6-10 more than urban cities. Higher fares could be leading to riders wanting to ride less in urban and rural cities.
+ - Urban cities could have a slight increase in fares in order to help drivers earn more per fare. Urban cities currently have the lowest average fare and weekly fares are consistently high weekly for urban cities, but the average fare for drivers is the lowest for the drivers. An increase in fares could benefit drivers as well as increase already high urban total fares.
